@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div>
       <header>
-        <Navbar bg = "dark" variant = "dark" expand="lg" collapseOnSelect>
+        <Navbar bg = "dark" variant = "dark" expand="md" collapseOnSelect>
             <Container>
                 <Navbar.Brand href="/">ProShop</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
